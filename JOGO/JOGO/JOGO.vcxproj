@@ -175,7 +175,7 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GamePlay.cpp" />
+    <ClCompile Include="src\GamePlay.cpp" />
     <ClCompile Include="src\Hero.cpp" />
     <ClCompile Include="src\GameManager.cpp" />
     <ClCompile Include="src\main.cpp" />
